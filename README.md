@@ -1,4 +1,4 @@
-# Gaussian-fitting
+# Matlab code for Gaussian Fitting in mass-spectrometry data
 Matlab codes for Gaussian fitting. ConsGaussFit05082016 is the main function. Others are supporting functions.
 Instructions are in the comments of ConsGaussFit05082016.
 
