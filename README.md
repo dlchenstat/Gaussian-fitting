@@ -6,11 +6,13 @@ The format of the input data table: should have one string column of protein ID 
 
 To use the code, set the folder where the codes are put together, to be the working directory.
 use command:
-ConsGaussFit05082016('SEC_Bio1_nov.csv','sec1-2015nov20160508','plot-uma-2015nov20160508','peakloc-uma-2015nov20160508')
+ConsGaussFit05082016('SEC_Bio1_nov.csv','sec1-2015nov20160508','plot-uma-2015nov20160508','peakloc-2015nov20160508')
 
-the first argument is input data
-second is output folder name
-third is plot names
-forth is the table of peak locations
+The first argument is input data
+Second is output folder name
+Third is plot names
+Forth is the table of peak locations
 
 The code uses append_pdfs.m and ghostscript.m to combine plots.
+The link is:
+https://www.mathworks.com/matlabcentral/fileexchange/31215-append-pdfs
