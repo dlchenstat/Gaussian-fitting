@@ -6,7 +6,7 @@ The format of the input data table: should have one string column of protein ID 
 
 To use the code, set the folder where the codes are put together, to be the working directory.
 use command:
-ConsGaussFit05082016('SEC_Bio1_nov.csv','sec1-2015nov20160508','plot-uma-2015nov20160508','peakloc-2015nov20160508')
+ConsGaussFit05082016('SEC_Bio1_nov.csv','sec1-2015nov20160508','plot-2015nov20160508','peakloc-2015nov20160508')
 
 The first argument is input data
 Second is output folder name
