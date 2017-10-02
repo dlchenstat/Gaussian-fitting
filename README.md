@@ -13,9 +13,9 @@ Second is output folder name
 Third is plot names
 Forth is the table of peak locations
 
-The code uses append_pdfs.m and ghostscript.m to combine plots.
+Please download all code files from this page.
 The link is:
 https://www.mathworks.com/matlabcentral/fileexchange/31215-append-pdfs
 
-The code contains peakfinder.m, which is another way to find peaks.
+The code contains peakfinder.m, which is another way to find peaks. Also please download all code files from this page.
 https://www.mathworks.com/matlabcentral/fileexchange/25500-peakfinder-x0--sel--thresh--extrema--includeendpoints--interpolate-?
