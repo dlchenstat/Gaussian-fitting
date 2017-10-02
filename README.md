@@ -1,4 +1,9 @@
 # Matlab code for Gaussian Fitting in mass-spectrometry data
+
+This is the code for the paper
+McBride, Z., Chen, D., Reick, C., Xie, J., & Szymanski, D. B. (2017). Global analysis of membrane-associated protein oligomerization using protein correlation profiling. Molecular & Cellular Proteomics, mcp–000276
+http://www.mcponline.org/content/early/2017/09/08/mcp.RA117.000276.full.pdf
+
 Matlab codes for Gaussian fitting. ConsGaussFit05082016 is the main function. Others are supporting functions.
 Instructions are in the comments of ConsGaussFit05082016.
 
@@ -12,6 +17,10 @@ The first argument is input data
 Second is output folder name
 Third is plot names
 Forth is the table of peak locations
+
+consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated 
+
+normprob.m is used to calculate peak areas.
 
 Please download all code files from this page.
 The link is:
