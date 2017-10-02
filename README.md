@@ -4,13 +4,13 @@ This is the code for the paper
 McBride, Z., Chen, D., Reick, C., Xie, J., & Szymanski, D. B. (2017). Global analysis of membrane-associated protein oligomerization using protein correlation profiling. Molecular & Cellular Proteomics, mcp–000276
 http://www.mcponline.org/content/early/2017/09/08/mcp.RA117.000276.full.pdf
 
-This Matlab code is modified from Kristensen et al (2012).
+This Matlab code is adapted from Kristensen et al (2012).
 
 Matlab codes for Gaussian fitting. ConsGaussFit05082016 is the main function. Others are supporting functions.
 Instructions are in the comments of ConsGaussFit05082016.
 
 # Description of files
-consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated 
+consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated by >= 4 fractions
 
 normprob.m is used to calculate peak areas.
 
