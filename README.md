@@ -16,3 +16,6 @@ Forth is the table of peak locations
 The code uses append_pdfs.m and ghostscript.m to combine plots.
 The link is:
 https://www.mathworks.com/matlabcentral/fileexchange/31215-append-pdfs
+
+The code contains peakfinder.m, which is another way to find peaks.
+https://www.mathworks.com/matlabcentral/fileexchange/25500-peakfinder-x0--sel--thresh--extrema--includeendpoints--interpolate-?
