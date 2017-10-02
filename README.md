@@ -10,7 +10,7 @@ Matlab codes for Gaussian fitting. ConsGaussFit05082016 is the main function. Ot
 Instructions are in the comments of ConsGaussFit05082016.
 
 # Description of files
-consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated by $>= 4$ fractions
+consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated by $$>= 4$$ fractions
 
 normprob.m is used to calculate peak areas.
 
