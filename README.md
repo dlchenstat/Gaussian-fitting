@@ -1,7 +1,7 @@
 # Matlab code for Gaussian Fitting in mass-spectrometry data
 
 This is the code for the paper
-McBride, Z., Chen, D., Reick, C., Xie, J., & Szymanski, D. B. (2017). Global analysis of membrane-associated protein oligomerization using protein correlation profiling. Molecular & Cellular Proteomics, mcp–000276
+McBride, Z., Chen, D., Reick, C., Xie, J., & Szymanski, D. B. (2017). Global analysis of membrane-associated protein oligomerization using protein correlation profiling. *Molecular & Cellular Proteomics*, mcp–000276
 http://www.mcponline.org/content/early/2017/09/08/mcp.RA117.000276.full.pdf
 
 This Matlab code is adapted from Kristensen et al (2012).
@@ -10,7 +10,7 @@ Matlab codes for Gaussian fitting. ConsGaussFit05082016 is the main function. Ot
 Instructions are in the comments of ConsGaussFit05082016.
 
 # Description of files
-consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated by >= 4 fractions
+consExp.m, consExp3.m, consExp4.m are the functions of 2, 3, 4 Gaussian peaks. Peaks are separated by $>= 4$ fractions
 
 normprob.m is used to calculate peak areas.
 
@@ -20,7 +20,9 @@ The format of the input data table: should have one or more string columns of pr
 # Instructions
 To use the code, set the folder where the codes are put together, to be the working directory.
 use command:
+```
 ConsGaussFit05082016('SEC_Bio1_nov.csv','sec1-2015nov20160508','plot-2015nov20160508','peakloc-2015nov20160508')
+```
 
 The first argument is input data
 Second is output folder name
